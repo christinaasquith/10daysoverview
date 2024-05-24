@@ -14,7 +14,7 @@
 ### Getting Started
 
 1. Icebreakers and review
-2. Set up your developer environment, including shipping a basic html/css site on GitHub and Scrapbook3.Basic HTML/CSS thinking
+2. Set up your developer environment, including shipping a basic html/css site on GitHub and Scrapbook, make sure they know basic HTML/CSS
 4. Classroom activities needed
 5. Links to lessons needed
 
@@ -57,4 +57,4 @@
 3. Authenticated APIs
 4. Using AI
 5. NextJS tutorial to see how Hack Club sites are made
-6. 
+6. Learning to build more complex design features like sliders, carousels, cool transitions
